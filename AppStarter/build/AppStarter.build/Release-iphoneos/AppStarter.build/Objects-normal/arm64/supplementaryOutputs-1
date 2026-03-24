@@ -1,0 +1,12 @@
+{
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/App/AppConfiguration.swift" : {
+    "abi-baseline-json" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter.abi.json",
+    "const-values" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary.swiftconstvalues",
+    "dependencies" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary.d",
+    "diagnostics" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary.dia",
+    "objc-header" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-Swift.h",
+    "swiftdoc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter.swiftdoc",
+    "swiftmodule" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter.swiftmodule",
+    "swiftsourceinfo" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter.swiftsourceinfo"
+  }
+}

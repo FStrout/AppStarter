@@ -1,0 +1,16 @@
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/App/AppConfiguration.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/App/AppStarterApp.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/App/DIContainer.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Features/Home/HomeView.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Features/Home/HomeViewModel.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Models/UserModel.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Repositories/UserRepository.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/API/APIEndpoint.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/API/APIError.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/API/APIService.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/Database/DatabaseService.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/Device/DeviceService.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/WatchConnector/WatchConnectorService.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/ContentView.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Item.swift
+/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/DerivedSources/GeneratedAssetSymbols.swift

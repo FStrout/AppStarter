@@ -1,0 +1,91 @@
+{
+  "" : {
+    "const-values" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary.swiftconstvalues",
+    "dependencies" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary.d",
+    "diagnostics" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary.dia",
+    "emit-module-dependencies" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary-emit-module.dia",
+    "pch" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarter-primary.swiftdeps"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/App/AppConfiguration.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppConfiguration.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppConfiguration.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppConfiguration.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/App/AppStarterApp.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarterApp.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarterApp.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/AppStarterApp.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/App/DIContainer.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DIContainer.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DIContainer.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DIContainer.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/ContentView.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Features/Home/HomeView.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/HomeView.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Features/Home/HomeViewModel.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/HomeViewModel.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Item.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/Item.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Models/UserModel.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/UserModel.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/UserModel.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/UserModel.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Repositories/UserRepository.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/UserRepository.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/UserRepository.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/UserRepository.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/API/APIEndpoint.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIEndpoint.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIEndpoint.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIEndpoint.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/API/APIError.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIError.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIError.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIError.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/API/APIService.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIService.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIService.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/APIService.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/Database/DatabaseService.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DatabaseService.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DatabaseService.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DatabaseService.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/Device/DeviceService.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DeviceService.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DeviceService.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/DeviceService.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/AppStarter/Services/WatchConnector/WatchConnectorService.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/WatchConnectorService.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/WatchConnectorService.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/WatchConnectorService.o"
+  },
+  "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fredstrout/Development/AppStarter/AppStarter/build/AppStarter.build/Release-iphoneos/AppStarter.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
