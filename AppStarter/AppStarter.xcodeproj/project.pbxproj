@@ -29,20 +29,42 @@
 		F31776582F72F7A4003C274B /* AppStarterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppStarterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		F369F39A2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarter" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Tests/AppStarterTests/AppStarterTests.swift,
+				Tests/AppStarterUITests/AppStarterUITests.swift,
+				Tests/AppStarterUITests/AppStarterUITestsLaunchTests.swift,
+			);
+			target = F317763E2F72F7A3003C274B /* AppStarter */;
+		};
+		F369F39B2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarterTests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Tests/AppStarterTests/AppStarterTests.swift,
+			);
+			target = F317764D2F72F7A4003C274B /* AppStarterTests */;
+		};
+		F369F39C2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarterUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Tests/AppStarterUITests/AppStarterUITests.swift,
+				Tests/AppStarterUITests/AppStarterUITestsLaunchTests.swift,
+			);
+			target = F31776572F72F7A4003C274B /* AppStarterUITests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		F31776412F72F7A3003C274B /* AppStarter */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				F369F39A2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarter" target */,
+				F369F39B2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarterTests" target */,
+				F369F39C2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarterUITests" target */,
+			);
 			path = AppStarter;
-			sourceTree = "<group>";
-		};
-		F31776512F72F7A4003C274B /* AppStarterTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AppStarterTests;
-			sourceTree = "<group>";
-		};
-		F317765B2F72F7A4003C274B /* AppStarterUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AppStarterUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,8 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				F31776412F72F7A3003C274B /* AppStarter */,
-				F31776512F72F7A4003C274B /* AppStarterTests */,
-				F317765B2F72F7A4003C274B /* AppStarterUITests */,
 				F31776402F72F7A3003C274B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +150,6 @@
 			dependencies = (
 				F31776502F72F7A4003C274B /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				F31776512F72F7A4003C274B /* AppStarterTests */,
-			);
 			name = AppStarterTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +169,6 @@
 			);
 			dependencies = (
 				F317765A2F72F7A4003C274B /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				F317765B2F72F7A4003C274B /* AppStarterUITests */,
 			);
 			name = AppStarterUITests;
 			packageProductDependencies = (
