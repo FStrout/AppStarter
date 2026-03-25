@@ -33,24 +33,24 @@
 		F369F39A2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarter" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Tests/AppStarterTests/AppStarterTests.swift,
-				Tests/AppStarterUITests/AppStarterUITests.swift,
-				Tests/AppStarterUITests/AppStarterUITestsLaunchTests.swift,
+				Tests/UI/AppStarterUITests.swift,
+				Tests/UI/AppStarterUITestsLaunchTests.swift,
+				Tests/Unit/AppStarterTests.swift,
 			);
 			target = F317763E2F72F7A3003C274B /* AppStarter */;
 		};
 		F369F39B2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarterTests" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Tests/AppStarterTests/AppStarterTests.swift,
+				Tests/Unit/AppStarterTests.swift,
 			);
 			target = F317764D2F72F7A4003C274B /* AppStarterTests */;
 		};
 		F369F39C2F732EE70026E682 /* Exceptions for "AppStarter" folder in "AppStarterUITests" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Tests/AppStarterUITests/AppStarterUITests.swift,
-				Tests/AppStarterUITests/AppStarterUITestsLaunchTests.swift,
+				Tests/UI/AppStarterUITests.swift,
+				Tests/UI/AppStarterUITestsLaunchTests.swift,
 			);
 			target = F31776572F72F7A4003C274B /* AppStarterUITests */;
 		};
